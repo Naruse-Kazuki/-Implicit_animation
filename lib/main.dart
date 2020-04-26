@@ -15,7 +15,7 @@ class DiscData {
       _rng.nextInt(255),
       _rng.nextInt(255),
     );
-    size = _rng.nextDouble() * 100 + 10;
+    size = _rng.nextDouble() * 10 + 10;
     alignment = Alignment(
       _rng.nextDouble() * 2 - 1,
       _rng.nextDouble() * 2 - 1,
