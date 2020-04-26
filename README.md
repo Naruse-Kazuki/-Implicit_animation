@@ -4,6 +4,10 @@
 
  ![Animated GIF-downsized (4)](https://user-images.githubusercontent.com/53788311/80296383-96f9b900-87b5-11ea-9f46-9783ead2c782.gif)
 
+# Overview
+
+ When you tap the center of the screen, colorful polka dots will move around.
+
  ![Animated GIF-downsized (6)](https://user-images.githubusercontent.com/53788311/80298643-6ae83300-87c9-11ea-8125-c7b88fb1c37e.gif)
 
  ![Animated GIF-downsized (7)](https://user-images.githubusercontent.com/53788311/80298695-ec3fc580-87c9-11ea-9a08-6475e9a0808d.gif)
