@@ -6,6 +6,8 @@
 
  ![Animated GIF-downsized (6)](https://user-images.githubusercontent.com/53788311/80298643-6ae83300-87c9-11ea-8125-c7b88fb1c37e.gif)
 
+ ![Animated GIF-downsized (7)](https://user-images.githubusercontent.com/53788311/80298695-ec3fc580-87c9-11ea-9a08-6475e9a0808d.gif)
+
 
 ## Getting Started
 
